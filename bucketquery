@@ -1,0 +1,3 @@
+SELECT SUM(contentSizeBytes) AS bucketSize, timeBucketId, source, label FROM DataEntity
+                            GROUP BY timeBucketId, source, label
+                            ORDER BY bucketSize DESC

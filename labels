@@ -1,0 +1,388 @@
+ {
+          "label_choices": [
+            "#mars"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 888,
+          "max_data_entities": 888
+        },
+        {
+          "label_choices": [
+            "#gold"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [
+            "#aliens"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 999,
+          "max_data_entities": 999
+        },
+        {
+          "label_choices": [
+            "#science"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 2222,
+          "max_data_entities": 1111
+        },
+        {
+          "label_choices": [
+            "#mit"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [
+            "#google"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 3333,
+          "max_data_entities": 3333
+        },
+        {
+          "label_choices": [
+            "#meta"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 3333,
+          "max_data_entities": 3333
+        },
+        {
+          "label_choices": [
+            "#spacex"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 1111,
+          "max_data_entities": 2222
+        },
+        {
+          "label_choices": [
+            "#nvidia"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 1111,
+          "max_data_entities": 1111
+        },
+        {
+          "label_choices": [
+            "#tesla"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [
+            "#dogs",
+            "#cats",
+            "#cat",
+            "#dog"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 2222,
+          "max_data_entities": 2222
+        },
+        {
+          "label_choices": [
+            "#memes"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 400,
+          "max_data_entities": 500
+        },
+       
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 2333,
+          "max_data_entities": 2333
+        },
+        {
+          "label_choices": [
+            "#twitter"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 2000,
+          "max_data_entities": 2000
+        },
+        
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 2000,
+          "max_data_entities": 900
+        },
+        
+       
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 400
+        },
+        {
+          "label_choices": [
+            "#openai"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 1200,
+          "max_data_entities": 700
+        },
+        
+        
+        {
+          "label_choices": [
+            "#Crypto"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 1300,
+          "max_data_entities": 1000
+        },
+        
+        {
+          "label_choices": [
+            "#darkweb"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [
+            "#Economy"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 2000,
+          "max_data_entities": 3000
+        },
+        {
+          "label_choices": [
+            "#money"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 2000,
+          "max_data_entities": 2333
+        },
+        
+        {
+          "label_choices": [
+            "#gold"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 700,
+          "max_data_entities": 700
+        },
+        {
+          "label_choices": [
+            "#silver"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+      
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 3000,
+          "max_data_entities": 3000
+        },
+        
+        {
+          "label_choices": [
+            "#virus"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+       
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 468,
+          "max_data_entities": 777
+        },
+        {
+          "label_choices": [
+            "#usa"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+      
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 700
+        },
+       
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 620,
+          "max_data_entities": 700
+        },
+        
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 90,
+          "max_data_entities": 900
+        },
+        
+        {
+          "label_choices": [
+            "#hamas"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 820,
+          "max_data_entities": 2000
+        },
+        {
+          "label_choices": [
+            "#Genomics"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [
+            "#bittensor",
+            "#bittensor",
+            "#bittensor",
+            "#bittensor",
+            "#bitcoincharts",
+            "#bitcoiner",
+            "#bitcoinexchange",
+            "#bitcoinmining",
+            "#bitcoinnews",
+            "#bitcoinprice",
+            "#bitcointechnology",
+            "#bitcointrading"
+          ],
+          "max_age_hint_minutes": 6500,
+          "max_data_entities": 1000
+        },
+       
+     
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 700,
+          "max_data_entities": 3000
+        },
+        {
+          "label_choices": [
+            "#deepmind"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 300
+        },
+        {
+          "label_choices": [
+            "#fomc"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 300
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 1020,
+          "max_data_entities": 3000
+        },
+        {
+          "label_choices": [
+            "#yahoo",
+            "#yahoofinance"
+          ],
+          "max_age_hint_minutes": 500,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 30,
+          "max_data_entities": 500
+        },
+        {
+          "label_choices": [
+            "#tao"
+          ],
+          "max_age_hint_minutes": 500,
+          "max_data_entities": 900
+        },
+        {
+          "label_choices": [
+            "#genai"
+          ],
+          "max_age_hint_minutes": 1000,
+          "max_data_entities": 300
+        },
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 120,
+          "max_data_entities": 400
+        },
+       
+        {
+          "label_choices": [],
+          "max_age_hint_minutes": 3000,
+          "max_data_entities": 3000
+        }
